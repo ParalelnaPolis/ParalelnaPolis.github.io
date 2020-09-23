@@ -7,6 +7,7 @@ This is a list of merchants in Czech Republic and Slovakia accepting Lightning N
  - [Paralelná Polis Bratislava e-shop](https://paralelnapolis.sk/crowdfunding/) - talk recordings, courses, T-shirts, swag, club memberships and more
  - [Paralelná Polis Prague e-shop](https://www.paralelnipolis.cz/shop/) - tickets for events, workshops, T-shirts, HCPP and swag
  - [Juraj Bednár's eshop](https://juraj.bednar.io/shop/) - books, courses. Also [English language version on hackyourself.io](https://hackyourself.io/shop/)
+ - [ln-ask.me](https://ln-ask.me) - Bitcoin and programming micro-consultations by Martin Habovštiak, an active member of Paralelná Polis Bratislava
  - [Bitcoinovej kanál](https://bitcoinovejkanal.cz/eshop/) - swag
 
 ## Physical
@@ -32,6 +33,7 @@ This is a list of merchants in Czech Republic and Slovakia accepting Lightning N
 These are the nodes of merchants, not random routing nodes. You need to perform other economic activity than just providing liquidity in order to be featured.
 
  - 02f1246b8fe904a5c5193504d8069532b1fb8692b84fb3eb64318b201238f60ff1@95.217.142.60:9735 - Juraj Bednár's node
+ - 029ef8ee0ba895e2807ac1df1987a7888116c468e70f42e7b089e06811b0e45482@ln-ask.me:9735 - Martin Habovštiak's node
  - 035538a971b0ed75f2f4e3c36e3d41bfda0d6961d66f5b3cc26748021d477c7cbb@95.217.50.60:9735 - Paralelní Polis eshop 
  - 03a6680e79e30f050d4f32f1fb9d046cc6efb5ed4cc99eeedba6b2e89cbf838691@85.216.202.47:9735 - Decentruck 
  
