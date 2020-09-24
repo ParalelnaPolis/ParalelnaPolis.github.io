@@ -17,6 +17,10 @@ This is a list of merchants in Czech Republic and Slovakia accepting Lightning N
 #### Prague
 
  - [Paralelní Polis](https://paralelnipolis.cz/) - coworking space, coffee, events, swag, T-shirts
+ 
+#### Brno
+
+ - [Yogena Brno](https://yogena.cz/) - enlighten yourself and pay for yoga with Lightning
 
 ### Slovak Republic
 
