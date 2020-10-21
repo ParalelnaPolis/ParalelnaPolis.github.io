@@ -23,6 +23,10 @@ This is a list of merchants in Czech Republic and Slovakia accepting Lightning N
 #### Brno
 
  - [Yogena Brno](https://yogena.cz/) - enlighten yourself and pay for yoga with Lightning
+ 
+ #### Ostrava
+ 
+ - [ChainCamp konference](https://chaincamp.cz) - buy all drinks, meals, swag, tickets... using your favorite lightning wallet!
 
 ### Slovak Republic
 
