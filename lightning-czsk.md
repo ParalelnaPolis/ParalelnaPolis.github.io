@@ -12,7 +12,8 @@ This is a list of merchants in Czech Republic and Slovakia accepting Lightning N
  - [Zaplať Kryptem](https://zaplatkryptem.cz/) - služba pomocou ktorej môžete lightningom zaplatiť faktúru na český účet
  - [BitVoucher](https://bitvoucher.cz) - get vouchers for your favorite Czech services
  - [Figa](https://figa.sk) - nástroj na manažovanie privátnych peňazí
-
+ - [Tanglesheep](https://www.tanglesheep.com) - web kde můžete krmit ovečky :)
+ 
 ## Physical
 
 ### Czech Republic
