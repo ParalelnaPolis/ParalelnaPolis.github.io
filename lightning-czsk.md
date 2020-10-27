@@ -47,8 +47,9 @@ These are the nodes of merchants, not random routing nodes. You need to perform 
  - `02f1246b8fe904a5c5193504d8069532b1fb8692b84fb3eb64318b201238f60ff1@95.217.142.60:9735` - Juraj Bednár's node
  - `029ef8ee0ba895e2807ac1df1987a7888116c468e70f42e7b089e06811b0e45482@ln-ask.me:9735` - Martin Habovštiak's node
  - `0370cf2693c16b5dc1632ae69e4751a0a88fa8f5705d53cb4c9cf805e5ef57aa45@paralelnapolis.sk` - Paralelná Polis eshop - do **not** connect from non-routing (e.g. mobile) wallets!
- - `035538a971b0ed75f2f4e3c36e3d41bfda0d6961d66f5b3cc26748021d477c7cbb@95.217.50.60:9735` - Paralelní Polis eshop 
+ - `025e5019685002fe76b46cbde6d84500e674ac33863fea3ab490ea72e1ad8974be@95.217.50.60:9735` - Paralelní Polis
  - `03a6680e79e30f050d4f32f1fb9d046cc6efb5ed4cc99eeedba6b2e89cbf838691@85.216.202.47:9736` - Decentruck 
+ - `033daa2ac144528a56255e884b91f6d3cc77587b9b832d02e05d5313bda5e71aea@crmyc4f3smjyu5dl6qtep327yciyt4otc6akhko4qwwlayypf756piad.onion:9735` - Bordel Hackerspace
  - `032be0dd6f553c93ebb1b18520dfcc83d2b24d2c225b613434a59730762362051b@fmoyb3neophnklvkvl7u7jhl66qtlofl5qwqsocjr4vezjyf4swakxad.onion:9735` - Bitcoinovej Kanál
  
 ## How to contribute
