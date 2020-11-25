@@ -14,6 +14,7 @@ This is a list of merchants in Czech Republic and Slovakia accepting Lightning N
  - [Figa](https://figa.sk) - nástroj na manažovanie privátnych peňazí
  - [Tanglesheep](https://www.tanglesheep.com) - web kde můžete krmit ovečky :)
  - [LaserLup](https://www.laserlup.cz) - e-shop s výrobkami z prekližky 
+ - [Svobodne Deti](https://svobodnedeti.cz/) - unikátní dokument o dětech a rodičích na cestě k dobrovolnému vzdělávání
  
 ## Physical
 
