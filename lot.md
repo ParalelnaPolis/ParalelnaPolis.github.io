@@ -1,12 +1,12 @@
-# Opinions of Slovak/Czech merchants on lockintimeout / Názory Slovenských a Českých obchodníkov na lockintimeout
+# Opinions of Slovak/Czech merchants on lockinontimeout / Názory Slovenských a Českých obchodníkov na lockinontimeout
 
 ## EN - About
 
-This list documents preferred behavior of Bitcoin nodes operated by Slovak/Czech merchants when it comes to `lockintimeout` consensus parameter used in Taproot activation.
+This list documents preferred behavior of Bitcoin nodes operated by Slovak/Czech merchants when it comes to `lockinontimeout` consensus parameter used in Taproot activation.
 
 ## SK - O projekte
 
-Tento zoznamam dokumentuje preferované správanie Bitcoinových nodov prevádzkovaných Slovenkými a Českými obchodníkmi, týkajúce sa parametra `lockintimeout` použitého pri aktivácii Taprootu.
+Tento zoznamam dokumentuje preferované správanie Bitcoinových nodov prevádzkovaných Slovenkými a Českými obchodníkmi, týkajúce sa parametra `lockinontimeout` použitého pri aktivácii Taprootu.
 
 Video vysvetľujúce LOT:
 
