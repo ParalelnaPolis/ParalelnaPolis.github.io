@@ -8,6 +8,10 @@ This list documents preferred behavior of Bitcoin nodes operated by Slovak/Czech
 
 Tento zoznamam dokumentuje preferované správanie Bitcoinových nodov prevádzkovaných Slovenkými a Českými obchodníkmi, týkajúce sa parametra `lockintimeout` použitého pri aktivácii Taprootu.
 
+Video vysvetľujúce LOT:
+
+[![Video vysvetľujúce LOT](https://img.youtube.com/vi/BBWG8IgvmnE/0.jpg)](https://www.youtube.com/watch?v=BBWG8IgvmnE "Ako aktivovať Taproot?")
+
 ## Table / Tabuľka
 
 | Name / Meno       |   LOT  | Summary about merchant / Krátky popis obchodníka |
