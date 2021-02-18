@@ -13,3 +13,5 @@ Tento zoznamam dokumentuje preferované správanie Bitcoinových nodov prevádzk
 | Name / Meno       |   LOT  | Summary about merchant / Krátky popis obchodníka |
 |-------------------|--------|--------------------------------------------------|
 | Martin Habovštiak | `true` | Paralelná Polis BA, https://ln-ask.me            |
+| Mário Havel       | `true` | Bordel, Paralelní Polis                          |
+
