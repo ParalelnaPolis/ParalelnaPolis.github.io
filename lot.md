@@ -1,4 +1,4 @@
-# Opinions of Slovak/Czech merchants on `lockintimeout` / Názory Slovenských a Českých obchodníkov na `lockintimeout`
+# Opinions of Slovak/Czech merchants on lockintimeout / Názory Slovenských a Českých obchodníkov na lockintimeout
 
 ## EN - About
 
