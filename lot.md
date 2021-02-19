@@ -19,4 +19,5 @@ Video vysvetľujúce LOT:
 | Martin Habovštiak | `true` | Paralelná Polis BA, https://ln-ask.me            |
 | Mário Havel       | `true` | Bordel, Paralelní Polis                          |
 | Dušky Matúška     | `true` | Bitcoin educator, https://www.dusanmatuska.com/  |
+| Juraj Bednár      | `true` | Paralelná Polis BA, https://juraj.bednar.io/shop |
 
