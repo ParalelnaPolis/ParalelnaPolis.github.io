@@ -15,6 +15,7 @@ This is a list of merchants in Czech Republic and Slovakia accepting Lightning N
  - [Tanglesheep](https://www.tanglesheep.com) - web kde můžete krmit ovečky :)
  - [LaserLup](https://www.laserlup.cz) - e-shop s výrobkami z prekližky 
  - [Svobodne Deti](https://svobodnedeti.cz/) - unikátní dokument o dětech a rodičích na cestě k dobrovolnému vzdělávání
+ - [Kutus Kutus](https://kutus-kutus.cz/) - e-shop s přírodními oleji a dalšími produkty z Bali
  
 ## Physical
 
