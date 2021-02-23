@@ -24,6 +24,7 @@ This is a list of merchants in Czech Republic and Slovakia accepting Lightning N
 #### Prague
 
  - [Paralelní Polis](https://paralelnipolis.cz/) - coworking space, coffee, events, swag, T-shirts
+ - [Laundromat](https://pavoltravnik.github.io/laundromat/) - Pavol does laundry for crypto tourists, nomads etc. (not money laundering, but socks, pants etc.)
  
 #### Brno
 
