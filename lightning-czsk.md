@@ -40,6 +40,10 @@ This is a list of merchants in Czech Republic and Slovakia accepting Lightning N
 
  - [Paralelná Polis Bratislava](https://paralelnapolis.sk) accepts Lightning during events - T-shirts, swag
 
+#### Partizánske
+ - [S.cafe.bistro.bar](https://www.facebook.com/scafebistrobar/) - enjoy food and specialty coffee
+ - [Catering 5S](https://www.facebook.com/Catering5S) - providing catering for various events
+
 ### Mobile
 
  - [Decentruck](https://www.paralelnipolis.cz/koncepty/decentruck/) - Bleskomat ATM for buying Lightning coins, Paralelní Polis swag, coffee
