@@ -10,7 +10,6 @@ This is a list of merchants in Czech Republic and Slovakia accepting Lightning N
  - [ln-ask.me](https://ln-ask.me) - Bitcoin and programming micro-consultations by Martin Habovštiak, an active member of Paralelná Polis Bratislava
  - [Bitcoinovej kanál](https://bitcoinovejkanal.cz/eshop/) - swag
  - [Zaplať Kryptem](https://zaplatkryptem.cz/) - služba pomocou ktorej môžete lightningom zaplatiť faktúru na český účet
- - [BitVoucher](https://bitvoucher.cz) - get vouchers for your favorite Czech services
  - [Figa](https://figa.sk) - nástroj na manažovanie privátnych peňazí
  - [Tanglesheep](https://www.tanglesheep.com) - web kde můžete krmit ovečky :)
  - [LaserLup](https://www.laserlup.cz) - e-shop s výrobkami z prekližky 
