@@ -32,6 +32,10 @@ This is a list of merchants in Czech Republic and Slovakia accepting Lightning N
 #### Ostrava
  
  - [ChainCamp konference](https://chaincamp.cz) - buy all drinks, meals, swag, tickets... using your favorite lightning wallet!
+ 
+#### Český Těšín
+ 
+ - [Apfel](https://apfel.cz) - Get your smartphone repaired and pay with Lightning!
 
 ### Slovak Republic
 
