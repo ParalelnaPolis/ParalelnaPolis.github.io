@@ -32,6 +32,10 @@ This is a list of merchants in Czech Republic and Slovakia accepting Lightning N
 #### Ostrava
  
  - [ChainCamp konference](https://chaincamp.cz) - buy all drinks, meals, swag, tickets... using your favorite lightning wallet!
+
+#### Olomouc
+ 
+ - [Blablabla](https://www.instagram.com/bla3ol/) - karaoke bar, accepts lightning for beer, alcoholic drinks, non-alcoholic drinks. Also provides 'cashback' when paying via Lightning network to get you some coins to dump in their JukeBox so you can sing!
  
 #### Český Těšín
  
