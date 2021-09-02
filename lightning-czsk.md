@@ -15,6 +15,7 @@ This is a list of merchants in Czech Republic and Slovakia accepting Lightning N
  - [LaserLup](https://www.laserlup.cz) - e-shop s výrobkami z prekližky 
  - [Svobodne Deti](https://svobodnedeti.cz/) - unikátní dokument o dětech a rodičích na cestě k dobrovolnému vzdělávání
  - [Kutus Kutus](https://kutus-kutus.cz/) - e-shop s přírodními oleji a dalšími produkty z Bali
+ - [BOMBA Energy](https://bombashop.cz/) - oficiální e-shop BOMBA energy drinků
  
 ## Physical
 
@@ -66,6 +67,7 @@ These are the nodes of merchants, not random routing nodes. You need to perform 
  - `03a6680e79e30f050d4f32f1fb9d046cc6efb5ed4cc99eeedba6b2e89cbf838691@85.216.202.47:9736` - Decentruck 
  - `033daa2ac144528a56255e884b91f6d3cc77587b9b832d02e05d5313bda5e71aea@crmyc4f3smjyu5dl6qtep327yciyt4otc6akhko4qwwlayypf756piad.onion:9735` - Bordel Hackerspace
  - `032be0dd6f553c93ebb1b18520dfcc83d2b24d2c225b613434a59730762362051b@fmoyb3neophnklvkvl7u7jhl66qtlofl5qwqsocjr4vezjyf4swakxad.onion:9735` - Bitcoinovej Kanál
+ - `021d925f1fae7e7756149be421079141af62d77b1f8626b29ab60f15b14645635a@hmgnavz6eccfnug5tpjxsgl3wlm5dimbe547mjv6utdy6xtcobovxmad.onion:9735` - BOMBA Energy
  
 ## How to contribute
 
