@@ -9,6 +9,7 @@ This is a list of merchants in Czech Republic and Slovakia accepting Lightning N
  - [Juraj Bednár's eshop](https://juraj.bednar.io/shop/) - books, courses. Also [English language version on hackyourself.io](https://hackyourself.io/shop/)
  - [ln-ask.me](https://ln-ask.me) - Bitcoin and programming micro-consultations by Martin Habovštiak, an active member of Paralelná Polis Bratislava
  - [Bitcoinovej kanál](https://bitcoinovejkanal.cz/eshop/) - swag
+ - [AnyCOLO.Net](https://anycolo.net/) - Buy VPS Hosting and pay with Lightning Network and Bitcoin.
  - [Zaplať Kryptem](https://zaplatkryptem.cz/) - služba pomocou ktorej môžete lightningom zaplatiť faktúru na český účet
  - [Figa](https://figa.sk) - nástroj na manažovanie privátnych peňazí
  - [Tanglesheep](https://www.tanglesheep.com) - web kde můžete krmit ovečky :)
