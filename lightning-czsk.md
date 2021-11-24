@@ -16,6 +16,7 @@ This is a list of merchants in Czech Republic and Slovakia accepting Lightning N
  - [Svobodne Deti](https://svobodnedeti.cz/) - unikátní dokument o dětech a rodičích na cestě k dobrovolnému vzdělávání
  - [Kutus Kutus](https://kutus-kutus.cz/) - e-shop s přírodními oleji a dalšími produkty z Bali
  - [BOMBA Energy](https://bombashop.cz/) - oficiální e-shop BOMBA energy drinků
+ - [ShirtTunning](https://www.shirttuning.cz/) - potisk triček dle vlastího návrhu
  
 ## Physical
 
