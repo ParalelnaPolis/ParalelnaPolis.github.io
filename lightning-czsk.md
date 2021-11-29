@@ -17,6 +17,8 @@ This is a list of merchants in Czech Republic and Slovakia accepting Lightning N
  - [Kutus Kutus](https://kutus-kutus.cz/) - e-shop s přírodními oleji a dalšími produkty z Bali
  - [BOMBA Energy](https://bombashop.cz/) - oficiální e-shop BOMBA energy drinků
  - [ShirtTunning](https://www.shirttuning.cz/) - potisk triček dle vlastího návrhu
+ - [HifiAudio.sk](https://www.hifiaudio.sk/) - Pódiová technika, Konferenčné systémy, Ozvučenie barov, kancelárií, štadiónov, fitness centier, ...
+ - [Hontiansky Dvor](https://www.hontianskydvor.sk/) - Domáce produkty - ovocie, zelenina, víno, včelie produkty
  
 ## Physical
 
