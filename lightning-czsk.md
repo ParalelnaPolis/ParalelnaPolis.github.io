@@ -19,6 +19,8 @@ This is a list of merchants in Czech Republic and Slovakia accepting Lightning N
  - [ShirtTunning](https://www.shirttuning.cz/) - potisk triček dle vlastího návrhu
  - [HifiAudio.sk](https://www.hifiaudio.sk/) - Pódiová technika, Konferenčné systémy, Ozvučenie barov, kancelárií, štadiónov, fitness centier, ...
  - [Hontiansky Dvor](https://www.hontianskydvor.sk/) - Domáce produkty - ovocie, zelenina, víno, včelie produkty
+ - [Alza.sk](https://alza.sk), [Alza.cz](https://alza.cz) - Veľký e-shop so všetkým možným
+ - [Confirmo.net](https://confirmo.net/blog/bitcoin-lightning-payments/) - platobná brána, ktorú používajú mnohé české a slovenské e-shopy (napríklad Alza). Nie všetci klienti majú zapnutú možnosť platiť Lightningom.
  
 ## Physical
 
