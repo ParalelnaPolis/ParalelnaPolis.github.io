@@ -56,6 +56,7 @@ This is a list of merchants in Czech Republic and Slovakia accepting Lightning N
 #### Bratislava
 
  - [Paralelná Polis Bratislava](https://paralelnapolis.sk) accepts Lightning during events - T-shirts, swag
+ - [Tepovanie od 15 EUR](https://tepovanieod15eur.sk/), [Nebuď prasa](https://www.instagram.com/nebudprasa/) - tepovanie v Bratislave
 
 #### Partizánske
  - [S.cafe.bistro.bar](https://www.facebook.com/scafebistrobar/) - enjoy food and specialty coffee
