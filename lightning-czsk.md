@@ -52,6 +52,11 @@ This is a list of merchants in Czech Republic and Slovakia accepting Lightning N
  
  - [Apfel](https://apfel.cz) - Get your smartphone repaired and pay with Lightning!
 
+
+#### Lomnice nad Popelkou
+ - [AION Club u Krbu](https://aionclub.cz) - Bar, concerts, also have ATM for LN
+ - [VeStanku](http://vestanku.cz) - Ice-cream, open only during summer time (April to October)
+
 ### Slovak Republic
 
 #### Bratislava
