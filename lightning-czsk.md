@@ -22,6 +22,7 @@ This is a list of merchants in Czech Republic and Slovakia accepting Lightning N
  - [Alza.sk](https://alza.sk), [Alza.cz](https://alza.cz) - Veľký e-shop so všetkým možným
  - [Confirmo.net](https://confirmo.net/blog/bitcoin-lightning-payments/) - platobná brána, ktorú používajú mnohé české a slovenské e-shopy (napríklad Alza). Nie všetci klienti majú zapnutú možnosť platiť Lightningom.
  - [Novator.sk](https://www.novator.sk/) - obchod so záhradnou, lesnou, poľnohospodárskou a čistiacou technikou renomovaných značiek (STIHL, HUSQVARNA, MTD, DOLMAR, STIGA, AL-KO, HONDA, ...)
+ - [Future Friendly Food](https://futurefriendlyfood.store/) - Domáce poctivé produkty priamo od farmárov, rozvoz po Prahe
  
 ## Physical
 
