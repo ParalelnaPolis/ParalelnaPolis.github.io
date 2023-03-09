@@ -69,6 +69,10 @@ This is a list of merchants in Czech Republic and Slovakia accepting Lightning N
  - [S.cafe.bistro.bar](https://www.facebook.com/scafebistrobar/) - enjoy food and specialty coffee
  - [Catering 5S](https://www.facebook.com/Catering5S) - providing catering for various events
 
+#### Košice
+
+ - [Paralelná Polis Košice](https://paralelnapoliskosice.sk) accepts Lightning on the bar and during events (T-shirts, swag)
+
 ### Mobile
 
  - [Decentruck](https://www.paralelnipolis.cz/koncepty/decentruck/) - Bleskomat ATM for buying Lightning coins, Paralelní Polis swag, coffee
@@ -85,6 +89,7 @@ These are the nodes of merchants, not random routing nodes. You need to perform 
  - `033daa2ac144528a56255e884b91f6d3cc77587b9b832d02e05d5313bda5e71aea@crmyc4f3smjyu5dl6qtep327yciyt4otc6akhko4qwwlayypf756piad.onion:9735` - Bordel Hackerspace
  - `032be0dd6f553c93ebb1b18520dfcc83d2b24d2c225b613434a59730762362051b@fmoyb3neophnklvkvl7u7jhl66qtlofl5qwqsocjr4vezjyf4swakxad.onion:9735` - Bitcoinovej Kanál
  - `021d925f1fae7e7756149be421079141af62d77b1f8626b29ab60f15b14645635a@hmgnavz6eccfnug5tpjxsgl3wlm5dimbe547mjv6utdy6xtcobovxmad.onion:9735` - BOMBA Energy
+ - `0387001685e8e80c0b4bced187335b38f90103be0eca541c5fd99bb83db7a30a46@voaignjkisfoogkbewnlwyhvl7752jhgvcmwbq5wjmwjwpgrvt6tsoid.onion:9735` - Paralelná Polis Košice
  
 ## How to contribute
 
