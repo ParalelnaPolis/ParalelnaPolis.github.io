@@ -31,7 +31,6 @@ This is a list of merchants in Czech Republic and Slovakia accepting Lightning N
 #### Prague
 
  - [Paralelní Polis](https://paralelnipolis.cz/) - coworking space, coffee, events, swag, T-shirts
- - [Laundromat](https://pavoltravnik.github.io/laundromat/) - Pavol does laundry for crypto tourists, nomads etc. (not money laundering, but socks, pants etc.)
  - [Hadog](https://www.hadog.cz/) - American Burgers & Hotdogs
  - [TRAFFIK coffee & sandwich](https://www.traffik.coffee) - Specialty coffee and sandwiches.
  - [Fresherie Bistro](https://www.fresherie-bistro.cz/) - All fresh foods
